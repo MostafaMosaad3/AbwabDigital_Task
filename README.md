@@ -11,6 +11,7 @@ A production-ready URL shortening service built with Laravel, featuring URL shor
 - **Caching**: Uses Redis to cache redirect URLs (24-hour TTL) and analytics data (1-hour TTL).
 - **Asynchronous Logging**: Redirect logs are queued using Redis for performance.
 
+
 ## System Architecture
 
 ### Components
